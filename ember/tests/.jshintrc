@@ -43,6 +43,7 @@
     "currentPath",
     "currentRouteName"
   ],
+  "laxcomma" : true,
   "node" : false,
   "browser" : false,
   "boss" : true,

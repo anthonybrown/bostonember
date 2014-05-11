@@ -16,6 +16,7 @@
   "boss" : true,
   "curly": false,
   "debug": false,
+  "laxcomma": true,
   "devel": false,
   "eqeqeq": true,
   "evil": true,
